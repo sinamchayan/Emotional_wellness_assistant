@@ -1,0 +1,9 @@
+﻿venv/
+node_modules/
+__pycache__/
+rag_db/
+patient_logs/
+.env
+backend_debug.log
+production_emotion_model/
+cloudflared.exe

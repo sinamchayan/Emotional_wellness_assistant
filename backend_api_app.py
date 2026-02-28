@@ -34,7 +34,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-API_KEY = "AIzaSyC_uGdJBiAw3V6M0hAzl8ymRLhCyehmWGk"
+API_KEY = "YOUR_API_KEY_HERE"
 MODEL_NAME = "models/gemma-3-27b-it" 
 
 EMOTIONS = ["neutral", "anger", "disgust", "fear", "happiness", "sadness", "surprise"]
